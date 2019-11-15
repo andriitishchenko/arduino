@@ -53,3 +53,20 @@ Hack it to use as USBAsp
 still in progress, no luck yet  
 
 
+------------------------------
+
+
+![Nano ICSP](https://github.com/andriitishchenko/arduino/blob/master/Arduino-Nano-ICSP.jpg)
+
+
+![Pro mini](https://github.com/andriitishchenko/arduino/blob/master/promini.png)
+
+
+![Nano](https://github.com/andriitishchenko/arduino/blob/master/nano.png)
+
+------------------------------
+
+Carduino
+![Carduino](https://github.com/andriitishchenko/arduino/blob/master/carduino.png)
+
+
